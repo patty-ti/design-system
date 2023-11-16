@@ -21,3 +21,5 @@ localhost:6006/
 
 tsup
 react-dom
+
+Rodar storybook com npm run dev e para as alterações serem visualizadas em tempo real, subir a aplicação(entrar no diretório packages) com esse mesmo comando
